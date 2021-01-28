@@ -3,22 +3,19 @@
 This project is to provide you a view of all food pantries and food services provided in the Pittsburgh region. Community organizers serving residents who have difficulties accessing food and local residents are able to use this program to find out detailed information including name, address, phone, and rating about food pantries/services.
 
 ### Team Members
-Mary Fleck		mfleck@andrew.cmu.edu
-Matthew Liu	   	mcliu@andrew.cmu.edu
-Jiaying Shi		jiaying2@andrew.cmu.edu
-Raghav Sood		rsood2@andrew.cmu.edu
+Mary Fleck (mfleck@andrew.cmu.edu), Matthew Liu	(mcliu@andrew.cmu.edu), Jiaying Shi	(jiaying2@andrew.cmu.edu), Raghav Sood (rsood2@andrew.cmu.edu)
 
 ### Prerequisites
 The below packages/modules are needed to install before running the project.
-●	requests
-●	beautifulsoup
-●	json
-●	fuzzywuzzy
-●	pandas
-●	re
-●	numpy
-●	matplotlib.pyplot
-●	collections
+* requests
+*	beautifulsoup
+*	json
+*	fuzzywuzzy
+*	pandas
+*	re
+*	numpy
+*	matplotlib.pyplot
+*	collections
 
 ### Running the project
 1.	Download the source code
