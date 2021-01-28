@@ -1,4 +1,4 @@
-# Data-Focused-Python Final Project
+# Data Focused Python Final Project
 ## Steel City Meals
 This project is to provide you a view of all food pantries and food services provided in the Pittsburgh region. Community organizers serving residents who have difficulties accessing food and local residents are able to use this program to find out detailed information including name, address, phone, and rating about food pantries/services.
 
